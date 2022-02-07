@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # press q to exit the code
 
 import os

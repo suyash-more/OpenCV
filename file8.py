@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # base template code
 # press q to exit the code
 
